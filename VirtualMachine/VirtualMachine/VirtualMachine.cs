@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VMProject.RealMachine.Components
+namespace VMProject.VirtualMachine
 {
-    public class RmUserMemory
+    internal class VirtualMachine
     {
     }
 }

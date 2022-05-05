@@ -8,5 +8,10 @@ namespace VMProject.RealMachine.Components
 {
     public class Printer
     {
+
+        public void Write(char val)
+        {
+            //Console.WriteLine(val);
+        }
     }
 }
